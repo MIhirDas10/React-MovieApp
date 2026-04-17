@@ -1,6 +1,6 @@
 # 🌐 Website Link:
 
-`You can find CineBuzz at:` [Cinebuzz](https://cinebuzz-ebdwx9rfa-dasmihir2911-gmailcoms-projects.vercel.app/)
+`You can find CineBuzz at:` [Cinebuzz](https://cinelens-green.vercel.app/)
 
 
 
