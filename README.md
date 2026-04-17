@@ -2,7 +2,13 @@
 
 `You can find CineBuzz at:` [Cinebuzz](https://cinelens-green.vercel.app/)
 
+
+
+![UI1](https://github.com/user-attachments/assets/41494bd6-6f1f-4d91-b894-a1bb5e551ce1)
 # React + Vite
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
